@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Comfortaa', cursive;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(85, 107, 47, 0.5);
+    color: hsl(0deg, 0%, 100%);
+    padding: 1rem 0;
+  }
+  
+  .attributionLinks {
+    text-decoration: none;
+    color: hsl(0deg, 0%, 100%);
+    padding: 0 0.5rem;
+    font-style: italic;
+  }
+  
+  /* Box-shadow para tarjetas
+box-shadow: 1px 0px 31px -9px rgba(46,20,20,0.75);
+-webkit-box-shadow: 1px 0px 31px -9px rgba(46,20,20,0.75);
+-moz-box-shadow: 1px 0px 31px -9px rgba(46,20,20,0.75);
+            */
+
+nav{
+  display: flex;
+  justify-content: flex-end;
+  margin: 15px 15px;
+}
+
+nav ul li{
+  display: inline;
+  background-color: rgba(85, 107, 47, 0.5);
+  color: hsl(0deg, 0%, 100%);
+  border-radius: 15px;
+  padding: 5px;
+  margin: 0 3px;
+}
+
+.inherit{
+  text-decoration: none;
+  color: inherit;
+  margin: 5px;
+}
+
+.breadcrumb a:hover{
+  color:blue
+}
+
+header{
+  position: relative;
+  right: 25px;
+  margin-bottom: 10px;
+}
+
+.breadcrumb li{
+  display: inline;
+}
+
+.breadcrumb li+li::before {
+  content: "/";
+  padding: 2px;
+}

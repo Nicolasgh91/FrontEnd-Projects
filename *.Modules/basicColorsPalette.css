@@ -1,0 +1,211 @@
+/* Color Pallete */
+
+
+.reds .base-color {
+  color: hsl(350, 100%, 50%);
+}
+
+/* Red lightness decreases by 15 */
+.color-1 {
+  background-color: hsl(350, 100%, 80%);
+}
+
+.color-2 {
+  background-color: hsl(350, 100%, 65%);
+}
+
+.color-3 {
+  background-color: hsl(350, 100%, 50%);
+}
+
+.color-4 {
+  background-color: hsl(350, 100%, 35%);
+}
+
+.color-5 {
+  background-color: hsl(350, 100%, 20%);
+}
+
+/* Red saturation decreases by 15 */
+.color-6 {
+  background-color: hsl(350, 100%, 50%);
+}
+
+.color-7 {
+  background-color: hsl(350, 85%, 50%);
+}
+
+.color-8 {
+  background-color: hsl(350, 70%, 50%);
+}
+
+.color-9 {
+  background-color: hsl(350, 55%, 50%);
+}
+
+.color-10 {
+  background-color: hsl(350, 40%, 50%);
+}
+
+/* Red hue increases by 15 */
+.color-11 {
+  background-color: hsl(320, 100%, 50%);
+}
+
+.color-12 {
+  background-color: hsl(335, 100%, 50%);
+}
+
+.color-13 {
+  background-color: hsl(350, 100%, 50%);
+}
+
+.color-14 {
+  background-color: hsl(5, 100%, 50%);
+}
+
+.color-15 {
+  background-color: hsl(20, 100%, 50%);
+}
+
+/* Green Swatches */
+
+.color-16{
+  background-color: hsl(35, 100%, 50%);
+}
+
+/* Green lightness decreases by 20 */
+.color-17 {
+  background-color: hsl(103, 100%, 90%);
+}
+
+.color-18 {
+  background-color: hsl(103, 100%, 70%);
+}
+
+.color-19 {
+  background-color: hsl(103, 100%, 50%);
+}
+
+.color-20 {
+  background-color: hsl(103, 100%, 30%);
+}
+
+.color-21 {
+  background-color: hsl(104, 100%, 10%);
+}
+
+/* Green saturation decreases by 20 */
+.color-22 {
+  background-color: hsl(130, 100%, 50%);
+}
+
+.color-23 {
+  background-color: hsl(130, 80%, 50%);
+}
+
+.color-24 {
+  background-color: hsl(130, 60%, 50%);
+}
+
+.color-25 {
+  background-color: hsl(130, 40%, 50%);
+}
+
+.color-26 {
+  background-color: hsl(131, 20%, 50%);
+}
+
+/* Green hue increases by 22 */
+.color-27 {
+  background-color: hsl(86, 100%, 50%);
+}
+
+.color-28 {
+  background-color: hsl(108, 100%, 50%);
+}
+
+.color-29 {
+  background-color: hsl(130, 100%, 50%);
+}
+
+.color-30 {
+  background-color: hsl(152, 100%, 50%);
+}
+
+.color-31 {
+  background-color: hsl(174, 100%, 50%);
+}
+
+.color-31B {
+  background-color: hsl(196, 100%, 50%);
+}
+
+/* Blue Swatches */
+
+.color-32 {
+  background-color: hsl(220, 100%, 50%);
+}
+
+/* Blue lightness decreases by 20 */
+.color-33 {
+  background-color: hsl(220, 100%, 90%)
+}
+
+.color-34 {
+  background-color: hsl(220, 100%, 70%);
+}
+
+.color-35 {
+  background-color: hsl(220, 100%, 50%);
+}
+
+.color-36 {
+  background-color: hsl(220, 100%, 30%);
+}
+
+.color-37 {
+  background-color: hsl(220, 100%, 10%);
+}
+
+/* Blue saturation decreases by 20 */
+.color-38 {
+  background-color: hsl(220, 100%, 50%);
+}
+
+.color-39 {
+  background-color: hsl(220, 80%, 50%);
+}
+
+.color-40 {
+  background-color: hsl(220, 60%, 50%);
+}
+
+.color-41 {
+  background-color: hsl(220, 40%, 50%);
+}
+
+.color-42 {
+  background-color: hsl(220, 20%, 50%);
+}
+
+/* Blue hue decreases by 20 */
+.color-43 {
+  background-color: hsl(260, 100%, 50%);
+}
+
+.color-44 {
+  background-color: hsl(240, 100%, 50%);
+}
+
+.color-45 {
+  background-color: hsl(220, 100%, 50%);
+}
+
+.color-46 {
+  background-color: hsla(200, 100%, 50%,0.5);
+}
+
+.color-47 {
+  background-color: hsla(170, 100%, 50%,0.5);
+}
